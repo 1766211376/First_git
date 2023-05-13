@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@E:\Clion\MinGW\mingw64
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=E:/Clion/Clion/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe
